@@ -1,0 +1,5 @@
+show version | no-more
+
+show chassis hardware | no-more
+
+  show configuration | display set | no-more
